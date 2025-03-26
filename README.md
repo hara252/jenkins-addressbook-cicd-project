@@ -8,7 +8,7 @@ this is my first upate hi this is my first update
 this is my update
 sdds
 this this is change
-hello xczczs
+hello xcz
 hiasdad
 oollaalalaa
 this is my final repo adsadad
@@ -16,7 +16,7 @@ this is the update
 this is newipdate
 hi this is new change
 ==================== d
-ddooiouo
+ddd
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
 a fast read for learning how to get started - not an example on how application should be
 designed. Please note this example uses and requires Java 8 to work..
